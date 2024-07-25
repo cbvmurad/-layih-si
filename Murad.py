@@ -30,3 +30,4 @@ elif təcrübə == y:
 else:
     print("Sizi anlamadıq")
  # Python
+# -layih-si
